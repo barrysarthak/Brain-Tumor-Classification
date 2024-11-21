@@ -1,4 +1,5 @@
 Project Title: Multi-Model Image Classification Using Transfer Learning with Attention Mechanism
+
 Project Description:
 This project implements an advanced image classification pipeline leveraging multiple pre-trained deep learning models (VGG16, VGG19, MobileNet, and Xception) combined with attention mechanisms to enhance feature extraction and classification accuracy. The pipeline is designed to classify medical images (or other datasets) into four distinct categories.
 
